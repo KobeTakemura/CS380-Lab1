@@ -1,5 +1,3 @@
-package SWELab1;
-
 /**
  * An implementation of a MinHeap.
  * <p>
